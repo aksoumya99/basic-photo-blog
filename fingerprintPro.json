@@ -1,0 +1,158 @@
+{
+    "identification": {
+        "data": {
+            "visitorId": "G6AePHSTuY8liyZN3Z5h",
+            "requestId": "1710527414718.OdM67d",
+            "browserDetails": {
+                "browserName": "Other",
+                "browserMajorVersion": "",
+                "browserFullVersion": "",
+                "os": "Android",
+                "osVersion": "11",
+                "device": "Generic Smartphone",
+                "userAgent": "Dalvik/2.1.0 (Linux; U; Android 11; OnePlus8Pro Build/QKR1.191246.002)"
+            },
+            "incognito": false,
+            "ip": "66.102.8.130",
+            "timestamp": 1710527414727,
+            "time": "2024-03-15T18:30:14Z",
+            "url": "com.sign3labs.fraudsdk",
+            "tag": {},
+            "confidence": {
+                "score": 1
+            },
+            "visitorFound": true,
+            "firstSeenAt": {
+                "global": "2024-03-15T18:30:13.758Z",
+                "subscription": "2024-03-15T18:30:13.758Z"
+            },
+            "lastSeenAt": {
+                "global": "2024-03-15T18:30:13.758Z",
+                "subscription": "2024-03-15T18:30:13.758Z"
+            }
+        }
+    },
+    "botd": {
+        "data": {
+            "bot": {
+                "result": "good",
+                "type": "googlebot"
+            },
+            "url": "",
+            "ip": "66.102.8.130",
+            "time": "2024-03-15T18:30:14.734Z",
+            "userAgent": "Dalvik/2.1.0 (Linux; U; Android 11; OnePlus8Pro Build/QKR1.191246.002)",
+            "requestId": "1710527414718.OdM67d"
+        }
+    },
+    "rootApps": {
+        "data": {
+            "result": false
+        }
+    },
+    "emulator": {
+        "data": {
+            "result": false
+        }
+    },
+    "ipInfo": {
+        "data": {
+            "v4": {
+                "address": "66.102.8.130",
+                "geolocation": {
+                    "accuracyRadius": 1000,
+                    "latitude": 34.0021,
+                    "longitude": -81.0423,
+                    "timezone": "America/New_York",
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    },
+                    "continent": {
+                        "code": "NA",
+                        "name": "North America"
+                    },
+                    "subdivisions": [
+                        {
+                            "isoCode": "SC",
+                            "name": "South Carolina"
+                        }
+                    ]
+                },
+                "asn": {
+                    "asn": "15169",
+                    "name": "GOOGLE",
+                    "network": "66.102.0.0/20"
+                },
+                "datacenter": {
+                    "result": true,
+                    "name": "Google"
+                }
+            }
+        }
+    },
+    "vpn": {
+        "data": {
+            "result": true,
+            "originTimezone": "America/Los_Angeles",
+            "originCountry": "US",
+            "methods": {
+                "timezoneMismatch": true,
+                "publicVPN": true,
+                "auxiliaryMobile": false
+            }
+        }
+    },
+    "incognito": {
+        "data": {
+            "result": false
+        }
+    },
+    "tampering": {
+        "data": {
+            "result": false,
+            "anomalyScore": 0
+        }
+    },
+    "clonedApp": {
+        "data": {
+            "result": false
+        }
+    },
+    "factoryReset": {
+        "data": {
+            "time": "2024-03-05T16:35:00Z",
+            "timestamp": 1709656500
+        }
+    },
+    "jailbroken": {
+        "data": {
+            "result": false
+        }
+    },
+    "frida": {
+        "data": {
+            "result": false
+        }
+    },
+    "privacySettings": {
+        "data": {
+            "result": false
+        }
+    },
+    "virtualMachine": {
+        "data": {
+            "result": false
+        }
+    },
+    "locationSpoofing": {
+        "data": {
+            "result": true
+        }
+    },
+    "suspectScore": {
+        "data": {
+            "result": 9
+        }
+    }
+}
